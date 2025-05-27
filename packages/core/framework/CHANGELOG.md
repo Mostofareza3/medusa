@@ -1,5 +1,22 @@
 # @medusajs/framework
 
+## 2.8.4
+
+### Patch Changes
+
+- [#12582](https://github.com/medusajs/medusa/pull/12582) [`7685d66c0775167994150e61a8b628ad6289ce23`](https://github.com/medusajs/medusa/commit/7685d66c0775167994150e61a8b628ad6289ce23) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(framework): Fix compiler to create the dist after clean-up
+
+- [#12612](https://github.com/medusajs/medusa/pull/12612) [`1f5f50010ae42f8d5b9924edcd75612b1f336463`](https://github.com/medusajs/medusa/commit/1f5f50010ae42f8d5b9924edcd75612b1f336463) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: expand method ALL for bodyparser config and additional validator
+
+- Updated dependencies [[`da5e278a783010e886fbae96c4b704bc9fcf78e5`](https://github.com/medusajs/medusa/commit/da5e278a783010e886fbae96c4b704bc9fcf78e5), [`791276e80f5745c8885352b7979c0faa979110f4`](https://github.com/medusajs/medusa/commit/791276e80f5745c8885352b7979c0faa979110f4), [`f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d`](https://github.com/medusajs/medusa/commit/f6f34cc0e419a0c4be0971f13eb59b2a1e3aa31d)]:
+  - @medusajs/modules-sdk@2.8.4
+  - @medusajs/types@2.8.4
+  - @medusajs/utils@2.8.4
+  - @medusajs/workflows-sdk@2.8.4
+  - @medusajs/orchestration@2.8.4
+  - @medusajs/cli@2.8.4
+  - @medusajs/telemetry@2.8.4
+
 ## 2.8.3
 
 ### Patch Changes
